@@ -1,0 +1,16 @@
+{
+  "extends": "../tsconfig.base.json",
+  "compilerOptions": {
+    "outDir": "../dist",
+    "strict": false,
+    "alwaysStrict": false,
+    "esModuleInterop": true
+  },
+  "types": [
+    "jest"
+  ],
+  "include": [
+    "src",
+    "__tests__"
+  ]
+}

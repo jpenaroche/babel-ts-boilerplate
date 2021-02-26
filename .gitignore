@@ -1,0 +1,8 @@
+node_modules
+dist
+*.tsbuildinfo
+.npmrc
+docs
+.nyc_output/
+coverage
+.vscode
